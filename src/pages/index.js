@@ -28,11 +28,8 @@ export default function Home() {
                 className="!text-6xl !text-left xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl sm:pt-2"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
-                I love making something beautiful and functional with the newest
-                development techniques. I look for challenges in the unknown and
-                the new. Right now, I am practicing with React. While you are
-                here, feel free to check out some of my other recent work or
-                read one of my articles.
+                My name is Taimoor.I love making something beautiful and functional with the newest
+                development techniques. 
               </p>
               <div className="flex items-center self-start mt-2 lg:self-center">
                 <Link
@@ -46,7 +43,7 @@ export default function Home() {
                   <LinkArrow className={"w-6 ml-1"} />
                 </Link>
                 <Link
-                  href="mailto:brianw.developer@gmail.com"
+                  href="mailto:ranatamoor067@gmail.com"
                   target="_blank"
                   className="ml-4 text-lg font-medium capitalize text-dark underline dark:text-light md:text-base"
                 >
