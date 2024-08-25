@@ -39,7 +39,7 @@ const about = () => {
   return (
     <>
       <Head>
-        <title>Brian Williams | About Page</title>
+        <title>Taimoor | About Page</title>
         <meta name="description" content="any description" />
       </Head>
       <TransitionEffect />
@@ -52,7 +52,7 @@ const about = () => {
                 About Me
               </h2>
               <p className="font-medium">
-                Hello! My name is Brian, I am a web developer and UI/UX designer
+                Hello! My name is Taimoor, I am a web developer and UI/UX designer
                 with a passion for creating beautiful, functional, and
                 user-centered digital experiences. With 2 years of experience in
                 the field. I am always looking for new and innovative ways to
