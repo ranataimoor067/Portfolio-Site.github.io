@@ -127,7 +127,7 @@ const projects = () => {
                 summary="A quote made of 3D Text floating in a cloud of randomly generated geometry."
                 link="https://quote-cloud.vercel.app/"
                 type="Featured Project"
-                github="https://github.com/bwilliams91/quote-cloud"
+                github=""
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
@@ -136,7 +136,7 @@ const projects = () => {
                 img={StarShower}
                 link="https://starshowerbkw.netlify.app/"
                 type="Project"
-                github="https://github.com/bwilliams91/Star-Shower"
+                github=""
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
@@ -145,7 +145,7 @@ const projects = () => {
                 img={SunsetRacer}
                 link="https://sunsetracer.netlify.app/"
                 type="Project"
-                github="https://github.com/bwilliams91/Sunset-Racing"
+                github=""
               />
             </div>
             <div className="col-span-12">
@@ -155,16 +155,16 @@ const projects = () => {
                 summary="Experimenting with geometries and materials in threejs"
                 link="https://materialexp.netlify.app/"
                 type="Featured Project"
-                github="https://github.com/bwilliams91/material-experimentation"
+                github=""
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="Omnifood Food Delivery"
+                title="Blogging website"
                 img={Omnifood}
-                link="https://omnifoodbkw.netlify.app/"
+                link="https://ranataimoor067.github.io/taimoor.github.io/"
                 type="Project"
-                github="https://github.com/bwilliams91/Omnifood-project"
+                github=""
               />
             </div>
             {/* <div className="col-span-6 sm:col-span-12">
