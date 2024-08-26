@@ -55,11 +55,11 @@ const Experience = () => {
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2 ">
           <Details
             position="Web Developer"
-            company="RikerWeb"
+            company="Taimoor"
             companyLink="/"
-            time="2023-Present"
-            address="Colorado Springs, CO"
-            work="At RikerWeb, I build websites with HTML/CSS, JS and Tailwind CSS. I follow design mockups and wireframes, and work with backend developers. I use Tailwind CSS utilities and components to create custom layouts and styles. I have built websites for a HVAC company, a food delivery service and more."
+            time="2024-Present"
+            address="FSD,PAK"
+            work=" I build websites with HTML/CSS, JS and Tailwind CSS. I follow design mockups and wireframes, and work with backend developers. I use Tailwind CSS utilities and components to create custom layouts and styles. I have built websites BLOGGING website."
           />
         </ul>
       </div>
