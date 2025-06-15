@@ -139,7 +139,7 @@ const NavBar = () => {
               <GithubIcon />
             </motion.a>
             <motion.a
-              href=""
+              href="https://www.linkedin.com/in/taimoor-zulfiqar-1ba913317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3bh46Df6Sy2wqqauaFc2jg%3D%3D"
               target={"_blank"}
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}
