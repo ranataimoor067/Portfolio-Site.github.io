@@ -11,7 +11,6 @@ import Education from "@/components/Education";
 import TransitionEffect from "@/components/TransitionEffect";
 
 // Animated counter component
-action
 const AnimatedNumbers = ({ value }) => {
   const ref = useRef(null);
 
@@ -20,9 +19,7 @@ const AnimatedNumbers = ({ value }) => {
   const isInView = useInView(ref, { once: true });
 
   useEffect(() => {
-    if (isInView) {
-      motionValue.set(value);
-    }
+    if (isInView) motionValue.set(value);
   }, [isInView, value, motionValue]);
 
   useEffect(() => {
@@ -64,23 +61,24 @@ const About = () => {
               </h2>
 
               <p className="font-medium">
-                Hi, I'm <strong>Taimoor Zulfiqar</strong> — a Web Developer, SEO
+                Hi, I&#39;m <strong>Taimoor Zulfiqar</strong> — a Web Developer, SEO
                 Link‑Building Expert, and Guest‑Post Seller. I help brands
                 increase search visibility with high‑authority backlinks and
                 performance‑driven websites.
               </p>
 
               <p className="my-4 font-medium">
-                I'm currently pursuing a <strong>BSc in Computer Science</strong>
+                I&#39;m currently pursuing a <strong>BSc in Computer Science</strong>
                 at the University of Agriculture, Faisalabad. Over the past two
-                years I've delivered modern web builds and guest‑post campaigns
+                years I&#39;ve delivered modern web builds and guest‑post campaigns
                 for agencies, startups, and bloggers across multiple niches.
               </p>
 
               <p className="font-medium">
-                My toolkit includes React/Next.js, Tailwind CSS, and white‑hat
-                outreach strategies. Whether you need a blazing‑fast site or
-                contextual links from DA‑40+ blogs, I'm ready to help you grow.
+                My toolkit includes React/Next.js, Tailwind&nbsp;CSS, and
+                white‑hat outreach strategies. Whether you need a blazing‑fast
+                site or contextual links from DA‑40+ blogs, I&#39;m ready to help
+                you grow.
               </p>
             </div>
 
