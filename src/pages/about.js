@@ -40,7 +40,7 @@ const about = () => {
     <>
       <Head>
         <title>Taimoor | About Page</title>
-        <meta name="description" content="any description" />
+        <meta name="description" content="Portfolio of Taimoor Zulfiqar - SEO Link Building Expert, Guest Post Seller, and Web Developer." />
       </Head>
       <TransitionEffect />
       <main className="flex w-full flex-col items-center justify-center dark:text-light">
@@ -52,23 +52,13 @@ const about = () => {
                 About Me
               </h2>
               <p className="font-medium">
-                Hello! My name is Taimoor, I am a web developer and UI/UX designer
-                with a passion for creating beautiful, functional, and
-                user-centered digital experiences. With 2 years of experience in
-                the field. I am always looking for new and innovative ways to
-                bring my clients visions to life.
+                Hi, I'm Taimoor Zulfiqar — a Web Developer, SEO Link Building Expert, and Guest Post Seller. I specialize in helping brands improve their online visibility through high-authority backlinks and clean, performance-driven websites.
               </p>
               <p className="my-4 font-medium">
-                I believe that design is about more than just making things look
-                pretty, it is about solving problems and creating intuitive,
-                enjoyable experiences for users.
+                I'm currently pursuing my Bachelor's in Computer Science from the University of Agriculture, Faisalabad. With over 2 years of experience in web development and off-page SEO, I’ve worked with multiple clients across industries to deliver results-focused guest post campaigns and modern website builds.
               </p>
               <p className="font-medium">
-                Whether I am working on a website, mobile app, or other digital
-                product, I bring my commitment to design excellence and
-                user-centered thinking to every project I work on. I look
-                forward to the opportunity to bring my skills and passion to
-                your next project.
+                My core strengths include building responsive websites, offering guest posts on high DA blogs, and creating backlink strategies that actually move the needle in rankings. Whether you're a startup looking to scale or a blog that needs traffic, I’m here to help.
               </p>
             </div>
 
@@ -76,12 +66,13 @@ const about = () => {
               <div className="absolute top-0 -right-3 -z-10 w-[102%] h-[103%] rounded-[2rem] bg-dark dark:bg-light" />
               <Image
                 src={profilePic}
-                alt="Brian"
+                alt="Taimoor Zulfiqar"
                 className="w-full h-auto rounded-2xl"
                 priority 
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 50vw"
               />
             </div>
+
             <div className="col-span-2 flex flex-col items-end justify-between xl:col-span-8 xl:flex-row xl:items-center md:order-3">
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
